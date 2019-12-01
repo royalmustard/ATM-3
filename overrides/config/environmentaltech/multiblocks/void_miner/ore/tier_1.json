@@ -1,5 +1,10 @@
 {
   "outputs": [
+	{
+      "target": "lime",
+      "weight": 222,
+      "id": "OD:oreMemium"
+    },
     {
       "target": "black",
       "weight": 1000,
