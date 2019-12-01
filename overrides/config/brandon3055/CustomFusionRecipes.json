@@ -1,4 +1,21 @@
 [
+	{
+        "mode": "ADD",
+        "result": "draconicevolution:chaotic_core",
+        "catalyst": "draconicevolution:chaos_shard",
+        "energy": 2500000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:awakened_core",
+            "ore:ingotDraconiumAwakened",
+            "draconicevolution:awakened_core",
+            "ore:ingotDraconiumAwakened",
+            "draconicevolution:awakened_core",
+            "ore:ingotDraconiumAwakened",
+			"draconicevolution:awakened_core",
+            "ore:ingotDraconiumAwakened"
+        ]
+    },
     {
         "mode": "ADD",
         "result": "atmtweaks:item_material,1,1",
