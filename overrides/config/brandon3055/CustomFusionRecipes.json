@@ -1,5 +1,38 @@
 [
 	{
+		"mode": "ADD",
+		"result": "memiumcraft:damage_absorber",
+		"catalyst": "memiumcraft:memium_core",
+		"energy": 420000000,
+		"tier": 2,
+		"ingredients": [
+			"mysticalagriculture:witherproof_block",
+			"advancedrocketry:forcefieldprojector",
+			"malisisdoors:forcefielditem",
+			"rftools:shield_block4",
+			"notenoughwands:protection_wand",
+			"atmtweaks:item_material,1,3",
+			"atmtweaks:item_material,1,3",
+		]
+	}
+	{
+		"mode": "ADD",
+		"result": "memiumcraft:memium_core",
+		"catalyst": "memiumcraft:memium_block",
+		"energy": 69000000,
+		"tier": 2,
+		"ingredients": [
+			"ore:blockToner",
+			"ore:blockToner",
+			"ore:blockToner",
+			"ore:blockToner",
+			"atmtweaks:item_material,1,2",
+			"atmtweaks:item_material,1,2",
+			"ore:blockRaimund",
+			"ore:blockRaimund"
+		]
+	},
+	{
         "mode": "ADD",
         "result": "draconicevolution:chaotic_core",
         "catalyst": "draconicevolution:chaos_shard",
