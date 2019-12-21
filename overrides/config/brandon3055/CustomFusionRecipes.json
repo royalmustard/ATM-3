@@ -14,7 +14,7 @@
 			"atmtweaks:item_material,1,3",
 			"atmtweaks:item_material,1,3",
 		]
-	}
+	},
 	{
 		"mode": "ADD",
 		"result": "memiumcraft:memium_core",
